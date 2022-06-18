@@ -3,6 +3,7 @@
 - 💩 Integrations 💩
 
   - [x] add github project
+  - [x] add external repos
 
 - Features
 
