@@ -158,6 +158,6 @@ diplomacy/
 diplomacy-research/
 diplomacy-deepmind/
 
-
 # games
 *game.json
+data/
